@@ -6,7 +6,8 @@ import streamlit as st
 # ==========================================
 
 # COLE AQUI O LINK ATUAL DO SEU FOTOFLIX
-FOTOFLIX_URL = https://script.google.com/macros/s/AKfycbyNCDQ-X1ffrvYGvXDP7JhMQm2p7bMFpSIG8y5LhABggNGhC9l16iorLK8Di-upu_bR/exec
+
+FOTOFLIX_URL = "https://script.google.com/macros/s/AKfycbyNCDQ-X1ffrvYGvXDP7JhMQm2p7bMFpSIG8y5LhABggNGhC9l16iorLK8Di-upu_bR/exec"
 
 st.set_page_config(
     page_title="FotoFlix",
